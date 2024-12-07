@@ -1,7 +1,7 @@
 import requests
 import json
 
-API_KEY = 'RGAPI-d3a2d9ac-14bb-45e8-a93f-42ffdb74e304'
+API_KEY = ''
 REGION = 'br1'
 
 
